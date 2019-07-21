@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1560958539 source:f:\my work database\introduction to c programming\cd_database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CD_database_header.h"
+
+1560958539 f:\my work database\introduction to c programming\cd_database\cd_database_header.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1559707464 source:f:\my work database\introduction to c programming\cd_database\display.c
+	<stdio.h>
+	"CD_database_header.h"
+
+1559717419 source:f:\my work database\introduction to c programming\cd_database\file handler.c
+	<stdio.h>
+	"CD_database_header.h"
+
+1559710981 source:f:\my work database\introduction to c programming\cd_database\input.c
+	<stdio.h>
+	"CD_database_header.h"
+
+1560958539 source:f:\my work database\introduction to c programming\cd_database\utilties.c
+	"CD_database_header.h"
+
